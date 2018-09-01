@@ -151,6 +151,6 @@ html{
 } 
 @media screen and (min-width:900px){
     .image_content{
-        width: 40%;
+        width: 30%;
 }
 }
